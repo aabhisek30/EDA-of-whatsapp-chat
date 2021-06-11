@@ -28,3 +28,5 @@ Following analysis is carried out
 9. Average length of message send by each user
 10. people who send first message in the morning most often
 11. Most active hour in history of group
+
+Important - Data is not provided as I donot owned it fully
