@@ -8,7 +8,7 @@
 
 ## File 1 - Data cleaning
 
-1. Read uncleaned data - WhatsApp Chat with M tech Nirma.txt
+1. Read uncleaned data - WhatsApp Chat.txt
 2. convert text into proper form for analysis - Multiline message to one line, handle missing value, use regular expression to convert text into different columns Sender, Message,
 date and time, convert data time (str format) to datetime stamp 
 3. Save cleaned data
